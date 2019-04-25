@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/denisplaster/wireframe-dashboard.git/precache-manifest.db6294fce54f17b5ab831d9b0985d974.js"
+  "/denisplaster/wireframe-dashboard.git/precache-manifest.9cf8724a4f3d310547ef70c4b1f61a9a.js"
 );
 
 self.addEventListener('message', (event) => {

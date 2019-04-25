@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/denisplaster/wireframe-dashboard.git/static/css/main.584f321a.chunk.css",
-    "main.js": "/denisplaster/wireframe-dashboard.git/static/js/main.ef1b2d26.chunk.js",
-    "main.js.map": "/denisplaster/wireframe-dashboard.git/static/js/main.ef1b2d26.chunk.js.map",
+    "main.css": "/denisplaster/wireframe-dashboard.git/static/css/main.52cc7057.chunk.css",
+    "main.js": "/denisplaster/wireframe-dashboard.git/static/js/main.24970db1.chunk.js",
+    "main.js.map": "/denisplaster/wireframe-dashboard.git/static/js/main.24970db1.chunk.js.map",
     "runtime~main.js": "/denisplaster/wireframe-dashboard.git/static/js/runtime~main.647fca07.js",
     "runtime~main.js.map": "/denisplaster/wireframe-dashboard.git/static/js/runtime~main.647fca07.js.map",
-    "static/js/2.b41502e9.chunk.js": "/denisplaster/wireframe-dashboard.git/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/denisplaster/wireframe-dashboard.git/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.a632d80c.chunk.js": "/denisplaster/wireframe-dashboard.git/static/js/2.a632d80c.chunk.js",
+    "static/js/2.a632d80c.chunk.js.map": "/denisplaster/wireframe-dashboard.git/static/js/2.a632d80c.chunk.js.map",
     "index.html": "/denisplaster/wireframe-dashboard.git/index.html",
-    "precache-manifest.db6294fce54f17b5ab831d9b0985d974.js": "/denisplaster/wireframe-dashboard.git/precache-manifest.db6294fce54f17b5ab831d9b0985d974.js",
+    "precache-manifest.9cf8724a4f3d310547ef70c4b1f61a9a.js": "/denisplaster/wireframe-dashboard.git/precache-manifest.9cf8724a4f3d310547ef70c4b1f61a9a.js",
     "service-worker.js": "/denisplaster/wireframe-dashboard.git/service-worker.js",
-    "static/css/main.584f321a.chunk.css.map": "/denisplaster/wireframe-dashboard.git/static/css/main.584f321a.chunk.css.map",
-    "static/media/logo.svg": "/denisplaster/wireframe-dashboard.git/static/media/logo.5d5d9eef.svg"
+    "static/css/main.52cc7057.chunk.css.map": "/denisplaster/wireframe-dashboard.git/static/css/main.52cc7057.chunk.css.map"
   }
 }
