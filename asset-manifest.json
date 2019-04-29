@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/denisplaster/wireframe-dashboard.git/static/css/main.52cc7057.chunk.css",
-    "main.js": "/denisplaster/wireframe-dashboard.git/static/js/main.24970db1.chunk.js",
-    "main.js.map": "/denisplaster/wireframe-dashboard.git/static/js/main.24970db1.chunk.js.map",
+    "main.css": "/denisplaster/wireframe-dashboard.git/static/css/main.1fb9cb2d.chunk.css",
+    "main.js": "/denisplaster/wireframe-dashboard.git/static/js/main.9fe97dc5.chunk.js",
+    "main.js.map": "/denisplaster/wireframe-dashboard.git/static/js/main.9fe97dc5.chunk.js.map",
     "runtime~main.js": "/denisplaster/wireframe-dashboard.git/static/js/runtime~main.647fca07.js",
     "runtime~main.js.map": "/denisplaster/wireframe-dashboard.git/static/js/runtime~main.647fca07.js.map",
     "static/js/2.a632d80c.chunk.js": "/denisplaster/wireframe-dashboard.git/static/js/2.a632d80c.chunk.js",
     "static/js/2.a632d80c.chunk.js.map": "/denisplaster/wireframe-dashboard.git/static/js/2.a632d80c.chunk.js.map",
     "index.html": "/denisplaster/wireframe-dashboard.git/index.html",
-    "precache-manifest.9cf8724a4f3d310547ef70c4b1f61a9a.js": "/denisplaster/wireframe-dashboard.git/precache-manifest.9cf8724a4f3d310547ef70c4b1f61a9a.js",
+    "precache-manifest.e0ceaf460d64745810e4019a89350dfa.js": "/denisplaster/wireframe-dashboard.git/precache-manifest.e0ceaf460d64745810e4019a89350dfa.js",
     "service-worker.js": "/denisplaster/wireframe-dashboard.git/service-worker.js",
-    "static/css/main.52cc7057.chunk.css.map": "/denisplaster/wireframe-dashboard.git/static/css/main.52cc7057.chunk.css.map"
+    "static/css/main.1fb9cb2d.chunk.css.map": "/denisplaster/wireframe-dashboard.git/static/css/main.1fb9cb2d.chunk.css.map"
   }
 }
